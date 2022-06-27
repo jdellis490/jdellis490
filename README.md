@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jdellis490 or Justin
-- 👀 I’m interested in being a mobile app dev, video games, anime, art, martial arts, and fitness.
-- 🌱 I’m currently learning JavaScript and Web Development
-- 💞️ I’m looking to collaborate on nothing yet because I'm still a baby.
+- 👋 Hi, I’m Justin
+- 👀 I’m interested in being a web dev and/or mobile app dev.
+- 🌱 I’m currently learning JavaScript to be a full stack dev.
+- 💞️ I’m looking to collaborate with any project once my skills grow.
 - 📫 How to reach me email: jdellis490@gmail.com
 
 <!---
