@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Justin
 - 👀 I’m interested in being a web dev and/or mobile app dev.
-- 🌱 I’m currently learning JavaScript to be a full stack dev.
+- 🌱 I’m currently learning JavaScript, MySQL, and React.
 - 💞️ I’m looking to collaborate with any project once my skills grow.
 - 📫 How to reach me email: jdellis490@gmail.com
 
