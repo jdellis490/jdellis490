@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Justin
-- 👀 I’m interested in being a web dev and/or mobile app dev.
-- 🌱 I’m currently learning JavaScript, Express, Node, MongoDB, and React.
+- 👀 I’m interested in being a software engineer.
+- 🌱 I’m currently learning JavaScript, Express, Node, MongoDB, and React for web development.
 - 💞️ I’m looking to collaborate with any project once my skills grow.
 - 📫 How to reach me email: jdellis490@gmail.com
 
