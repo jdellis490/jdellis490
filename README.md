@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Justin
-- 👀 I’m interested in being a software engineer.
+- 👀 I’m interested in being a full stack web developer.
 - 🌱 I’m currently learning JavaScript, Express, Node, MongoDB, and React for web development.
 - 💞️ I’m looking to collaborate with any project once my skills grow.
 - 📫 How to reach me email: jdellis490@gmail.com
