@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Justin
-- 👀 I’m interested in being a full stack web developer.
+- 👀 I’m looking for a web developer position with either frontend and/or backend opportunities.
 - 🌱 I’m currently learning JavaScript, Express, Node, MongoDB, and React for web development.
-- 💞️ I’m looking to collaborate with any project once my skills grow.
+- 💞️ I’m looking to collaborate with any project to develop my skills.
 - 📫 How to reach me email: jdellis490@gmail.com
 
 <!---
