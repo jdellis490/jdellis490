@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Justin
-- 👀 I’m looking for a frontend developer or mobile developer position.
-- 🌱 I’m currently learning JavaScript with React and Flutter with Dart.
+- 👀 I’m looking for a frontend developer or mobile developer positions.
+- 🌱 I’m currently working with/learning JavaScript, React, Tailwind, Flutter, and Dart.
 - 💞️ I’m looking to collaborate with any project to develop my skills.
 - 📫 How to reach me email: jdellis490@gmail.com
 
